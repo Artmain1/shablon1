@@ -1,0 +1,15 @@
+C:\12\C#\shablon1\obj\Debug\net6.0\shablon1.csproj.AssemblyReference.cache
+C:\12\C#\shablon1\obj\Debug\net6.0\shablon1.GeneratedMSBuildEditorConfig.editorconfig
+C:\12\C#\shablon1\obj\Debug\net6.0\shablon1.AssemblyInfoInputs.cache
+C:\12\C#\shablon1\obj\Debug\net6.0\shablon1.AssemblyInfo.cs
+C:\12\C#\shablon1\obj\Debug\net6.0\shablon1.csproj.CoreCompileInputs.cache
+C:\12\C#\shablon1\bin\Debug\net6.0\shablon1.exe
+C:\12\C#\shablon1\bin\Debug\net6.0\shablon1.deps.json
+C:\12\C#\shablon1\bin\Debug\net6.0\shablon1.runtimeconfig.json
+C:\12\C#\shablon1\bin\Debug\net6.0\shablon1.dll
+C:\12\C#\shablon1\bin\Debug\net6.0\shablon1.pdb
+C:\12\C#\shablon1\obj\Debug\net6.0\shablon1.dll
+C:\12\C#\shablon1\obj\Debug\net6.0\refint\shablon1.dll
+C:\12\C#\shablon1\obj\Debug\net6.0\shablon1.pdb
+C:\12\C#\shablon1\obj\Debug\net6.0\shablon1.genruntimeconfig.cache
+C:\12\C#\shablon1\obj\Debug\net6.0\ref\shablon1.dll
